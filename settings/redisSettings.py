@@ -1,0 +1,13 @@
+REDIS_HOST = 'redis-4c81d35-dcs-kid6.dcs.huaweicloud.com'
+REDIS_PORT = 6379
+REDIS_PASSWORD = 'HbAc58451320'
+REDIS_MAX_CONNECTIONS = 1000
+
+# 链接日志
+ACCEPT_LOG = 170
+# 单个用户链接日志保留最大数目
+ACCEPT_LOG_LIMIT_PER_USER = 1000
+# 登录日志
+LOGIN_LOG = 170
+# submit提交库
+CMPP_SUBMIT_CACHE = 171
