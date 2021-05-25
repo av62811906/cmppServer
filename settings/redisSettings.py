@@ -1,6 +1,6 @@
-REDIS_HOST = 'redis-4c81d35-dcs-kid6.dcs.huaweicloud.com'
+REDIS_HOST = ''
 REDIS_PORT = 6379
-REDIS_PASSWORD = 'HbAc58451320'
+REDIS_PASSWORD = ''
 REDIS_MAX_CONNECTIONS = 1000
 
 # 链接日志
